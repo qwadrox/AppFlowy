@@ -184,9 +184,7 @@
     "editContact": "Modifier le contact"
   },
   "button": {
-    "OK": "OK",
-    "Done": "Fait",
-    "Cancel": "Annuler",
+    "done": "Fait",
     "signIn": "Se connecter",
     "signOut": "Se déconnecter",
     "complete": "Achevé",
@@ -202,12 +200,14 @@
     "edit": "Modifier",
     "delete": "Supprimer",
     "duplicate": "Dupliquer",
-    "done": "Fait",
     "putback": "Remettre",
     "share": "Partager",
     "removeFromFavorites": "Retirer des favoris",
     "addToFavorites": "Ajouter aux favoris",
-    "rename": "Renommer"
+    "rename": "Renommer",
+    "OK": "OK",
+    "Done": "Fait",
+    "Cancel": "Annuler"
   },
   "label": {
     "welcome": "Bienvenue !",
@@ -630,11 +630,11 @@
     }
   },
   "board": {
+    "menuName": "Conseil",
+    "referencedBoardPrefix": "Vue",
     "column": {
       "create_new_card": "Nouveau"
-    },
-    "menuName": "Conseil",
-    "referencedBoardPrefix": "Vue"
+    }
   },
   "calendar": {
     "menuName": "Calendrier",

@@ -183,9 +183,7 @@
     "editContact": "Editar um contato"
   },
   "button": {
-    "OK": "Ok",
-    "Done": "Feito",
-    "Cancel": "Cancelar",
+    "done": "Feito",
     "signIn": "Conectar",
     "signOut": "Desconectar",
     "complete": "Completar",
@@ -201,8 +199,10 @@
     "edit": "Editar",
     "delete": "Excluir",
     "duplicate": "Duplicado",
-    "done": "Feito",
     "putback": "Por de volta",
+    "OK": "Ok",
+    "Done": "Feito",
+    "Cancel": "Cancelar",
     "tryAGain": "Tentar novamente"
   },
   "label": {
@@ -630,11 +630,11 @@
     }
   },
   "board": {
+    "menuName": "Quadro",
+    "referencedBoardPrefix": "Vista de",
     "column": {
       "create_new_card": "Novo"
-    },
-    "menuName": "Quadro",
-    "referencedBoardPrefix": "Vista de"
+    }
   },
   "calendar": {
     "menuName": "Calendário",

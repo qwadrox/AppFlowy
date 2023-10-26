@@ -159,9 +159,7 @@
     "editContact": "連絡先を編集する"
   },
   "button": {
-    "OK": "OK",
-    "Done": "終わり",
-    "Cancel": "キャンセル",
+    "done": "終わり",
     "signIn": "サインイン",
     "signOut": "サインアウト",
     "complete": "完了",
@@ -177,8 +175,10 @@
     "edit": "編集",
     "delete": "消去",
     "duplicate": "複製",
-    "done": "終わり",
-    "putback": "戻す"
+    "putback": "戻す",
+    "OK": "OK",
+    "Done": "終わり",
+    "Cancel": "キャンセル"
   },
   "label": {
     "welcome": "ようこそ！",
@@ -547,11 +547,11 @@
     }
   },
   "board": {
+    "menuName": "ボード",
+    "referencedBoardPrefix": "のビュー",
     "column": {
       "create_new_card": "新しい"
-    },
-    "menuName": "ボード",
-    "referencedBoardPrefix": "のビュー"
+    }
   },
   "calendar": {
     "menuName": "カレンダー",

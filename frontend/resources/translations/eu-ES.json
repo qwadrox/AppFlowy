@@ -159,9 +159,7 @@
     "editContact": "Kontaktua editatu"
   },
   "button": {
-    "OK": "OK",
-    "Done": "Eginda",
-    "Cancel": "Ezteztatu",
+    "done": "Eginda",
     "signIn": "Saioa hasi",
     "signOut": "Saioa itxi",
     "complete": "Burututa",
@@ -177,8 +175,10 @@
     "edit": "Editatu",
     "delete": "Ezabatu",
     "duplicate": "Bikoiztu",
-    "done": "Eginda",
-    "putback": "Jarri Atzera"
+    "putback": "Jarri Atzera",
+    "OK": "OK",
+    "Done": "Eginda",
+    "Cancel": "Ezteztatu"
   },
   "label": {
     "welcome": "Ongi etorri!",
@@ -552,11 +552,11 @@
     }
   },
   "board": {
+    "menuName": "Kontseilua",
+    "referencedBoardPrefix": "-ren ikuspegia",
     "column": {
       "create_new_card": "Berria"
-    },
-    "menuName": "Kontseilua",
-    "referencedBoardPrefix": "-ren ikuspegia"
+    }
   },
   "calendar": {
     "menuName": "Egutegia",

@@ -159,9 +159,7 @@
     "editContact": "編輯聯絡人"
   },
   "button": {
-    "OK": "OK",
-    "Done": "完畢",
-    "Cancel": "取消",
+    "done": "完畢",
     "signIn": "登入",
     "signOut": "登出",
     "complete": "完成",
@@ -177,8 +175,10 @@
     "edit": "編輯",
     "delete": "刪除",
     "duplicate": "複製",
-    "done": "完畢",
-    "putback": "放回去"
+    "putback": "放回去",
+    "OK": "OK",
+    "Done": "完畢",
+    "Cancel": "取消"
   },
   "label": {
     "welcome": "歡迎！",
@@ -547,11 +547,11 @@
     }
   },
   "board": {
+    "menuName": "看板",
+    "referencedBoardPrefix": "視圖",
     "column": {
       "create_new_card": "建立"
-    },
-    "menuName": "看板",
-    "referencedBoardPrefix": "視圖"
+    }
   },
   "calendar": {
     "menuName": "月曆",

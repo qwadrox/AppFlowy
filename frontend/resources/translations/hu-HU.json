@@ -12,7 +12,9 @@
     "addBelowTooltip": "Kattintson a hozzáadáshoz lent",
     "addAboveCmd": "Alt+kattintás",
     "addAboveMacCmd": "Option+kattintás",
-    "addAboveTooltip": "a fentiek hozzáadásához"
+    "addAboveTooltip": "a fentiek hozzáadásához",
+    "dragTooltip": "Húzás a mozgáshoz",
+    "openMenuTooltip": "Kattints a menü megnyitásához"
   },
   "signUp": {
     "buttonText": "Regisztráció",
@@ -24,11 +26,13 @@
     "alreadyHaveAnAccount": "Rendelkezel már fiókkal?",
     "emailHint": "Email",
     "passwordHint": "Jelszó",
-    "repeatPasswordHint": "Jelszó megerősítése"
+    "repeatPasswordHint": "Jelszó megerősítése",
+    "signUpWith": "Regisztrálj a következővel:"
   },
   "signIn": {
     "loginTitle": "Bejelentkezés az @:appName -ba",
     "loginButtonText": "Belépés",
+    "loginStartWithAnonymous": "Kezdd egy névtelen munkamenettel",
     "buttonText": "Bejelentkezés",
     "forgotPassword": "Elfelejtett jelszó?",
     "emailHint": "Email",
@@ -159,9 +163,7 @@
     "editContact": "Kontakt Szerkesztése"
   },
   "button": {
-    "OK": "OK",
-    "Done": "Kész",
-    "Cancel": "Mégse",
+    "done": "Kész",
     "signIn": "Bejelentkezés",
     "signOut": "Kijelentkezés",
     "complete": "Kész",
@@ -177,8 +179,10 @@
     "edit": "Szerkesztés",
     "delete": "Töröl",
     "duplicate": "Másolat",
-    "done": "Kész",
-    "putback": "Visszatesz"
+    "putback": "Visszatesz",
+    "OK": "OK",
+    "Done": "Kész",
+    "Cancel": "Mégse"
   },
   "label": {
     "welcome": "Üdvözlünk!",
@@ -546,11 +550,11 @@
     }
   },
   "board": {
+    "menuName": "Tábla",
+    "referencedBoardPrefix": "Nézet",
     "column": {
       "create_new_card": "Új"
-    },
-    "menuName": "Tábla",
-    "referencedBoardPrefix": "Nézet"
+    }
   },
   "calendar": {
     "menuName": "Naptár",

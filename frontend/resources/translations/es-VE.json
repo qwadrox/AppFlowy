@@ -159,9 +159,7 @@
     "editContact": "Editar Contacto"
   },
   "button": {
-    "OK": "OK",
-    "Done": "Hecho",
-    "Cancel": "Cancelar",
+    "done": "Hecho",
     "signIn": "Ingresar",
     "signOut": "Salir",
     "complete": "Completar",
@@ -177,8 +175,10 @@
     "edit": "Editar",
     "delete": "Borrar",
     "duplicate": "Duplicar",
-    "done": "Hecho",
-    "putback": "Volver"
+    "putback": "Volver",
+    "OK": "OK",
+    "Done": "Hecho",
+    "Cancel": "Cancelar"
   },
   "label": {
     "welcome": "¡Bienvenido!",
@@ -547,11 +547,11 @@
     }
   },
   "board": {
+    "menuName": "Junta",
+    "referencedBoardPrefix": "Vista de",
     "column": {
       "create_new_card": "Nuevo"
-    },
-    "menuName": "Junta",
-    "referencedBoardPrefix": "Vista de"
+    }
   },
   "calendar": {
     "menuName": "Calendario",
